@@ -38,7 +38,7 @@ Simply copy and paste the appropriate controller configuration from below into y
 
 The Steam controller configurations are here: 
   - [PS4/5 controller] (steam://controllerconfig/489830/2643232367)
-  ![image]![image](https://user-images.githubusercontent.com/89932487/139701647-784c6b6d-62f8-428e-885d-48621bcb802f.png)
+  ![image](https://user-images.githubusercontent.com/89932487/139701647-784c6b6d-62f8-428e-885d-48621bcb802f.png)
 
   - [Xbox and all 3rd party controllers] (steam://controllerconfig/489830/2607358221)
   ![image](https://user-images.githubusercontent.com/89932487/134069164-50ed52f1-dca5-4fa2-885a-515ef51f2a73.png)
