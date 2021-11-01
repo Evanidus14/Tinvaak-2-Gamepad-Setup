@@ -82,7 +82,7 @@ The changes from the video are listed below
 
 ## Keybindings
 
-This section will list out the keybinding setup for both controller configurations as a reference. For those of you that want to edit things - feel free to do so but know that you void any support in the Aldrnari support channel if you do. Also, keep in mind this setup was achieved with a combination of a custom controlmap.txt AND the steam configuration - that means you need to know how to edit both before you try and change things with any chance of success. Otherwise, this is probably all the official support you'll get for gamepads at all, so definitely pay attention.
+This section will list out the keybinding setup for both controller configurations as a reference. For those of you that want to edit things - feel free to do so but know that you void any support in the Tinvaak 2 support channels if you do. Also, keep in mind this setup was achieved with a combination of a custom_controlmap.txt AND the steam configuration - that means you need to know how to edit both before you try and change things with any chance of success. Modifying these settings isn't difficult, but it does require time, effort, and reading as well as research that you'll have to do on your own. 
 
 ### PS4/PS5:
 
