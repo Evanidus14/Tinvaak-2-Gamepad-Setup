@@ -102,50 +102,43 @@ Default Keybinds (No Modifiers)
 - Dpad Down - Hotkey 2
 - Dpad Right - Hotkey 3
 - Dpad Up - Hotkey 4
-- Circle + Left - Hotkey 5
-- Circle + Down - Hotkey 6
-- Circle + Right - Hotkey 7
-- Circle + Up - Hotkey 8
+- Circle + Dpad Left - Hotkey 5
+- Circle + Dpad Down - Hotkey 6
+- Circle + Dpad Right - Hotkey 7
+- Circle + Dpad Up - Hotkey 8
 - Square - Sheath/Unsheath
 - Cross - Activate
-- Circle - Hold to Sprint, cancel, and 
+- Circle - Hold to Sprint, cancel, and hotkey modifier
 - Triangle - Jump
 - Left Stick Click - Sneak
 - Right Stick Click - Lock On
 - Right Stick Click (Hold for 0.25 seconds and then release) - Change POV
 - Share (left side) - Wait 
 - Start (right side) - System Menu
-- Left Pad Click - Menu Sort Left
-- Right Pad Click - Menu Sort Right
+- Left Pad Click - Menu Control Sort Left
+- Right Pad Click - Menu Control Sort Right
 - Circle + Share - Tween Menu
 - Circle + Left Stick Click - Favorites Menu
-- Circle + Left Stick Click - Sneak
 
 L1 Modifier Keybinds - This button must be held down for the following keybinds to work
 - L1 + R1 - Shout/Power
-- L1 + Dpad Left - Group 1
-- L1 + Dpad Down - Group 2
-- L1 + Dpad Right - Group 3
-- L1 + Dpad Up - Group 4
+- L1 + Dpad Left - Favorites Group 1
+- L1 + Dpad Down - Favorites Group 2
+- L1 + Dpad Right - Favorites Group 3
+- L1 + Dpad Up - Favorites Group 4
 - L1 + Square - Dodge Left
 - L1 + Cross - Dodge Backwards
 - L1 + Circle - Dodge Right
 - L1 + Triangle - Dodge Forward
 - L1 + Left Stick Click - Open Console
 - L1 + Share (left side) - Immersive HUD Toggle 
-- L1 + Start (right side) - Forceful Tongue Skill Menu (Shout Mod)
 - L1 + Right Pad Click - Shoulder Cam Switch
 
 R1 Modifier Keybinds - This button must be held down for the following keybinds to work
-- R1 + R2 - Standing Power Attack
-- R1 + Dpad Left - Group 5
-- R1 + Dpad Down - Group 6
-- R1 + Dpad Right - Group 7
-- R1 + Dpad Up - Group 8
-- R1 + Square - Left Power Attack
-- R1 + Cross - Backwards Power Attack
-- R1 + Circle - Right Power Attack
-- R1 + Triangle - Forward Power Attack
+- R1 + Dpad Left - Favorites Group 5
+- R1 + Dpad Down - Favorites Group 6
+- R1 + Dpad Right - Favorites Group 7
+- R1 + Dpad Up - Favorites Group 8
 - R1 + Select (left side) - Quick Load
 - R1 + Start (right Side) - Quick Save
 - R1 + Left Stick Click - Lichdom Mode Change
@@ -171,64 +164,57 @@ Default Keybinds (No Modifiers)
 - Dpad Down - Hotkey 2
 - Dpad Right - Hotkey 3
 - Dpad Up - Hotkey 4
-- X - Quick Heal
-- X (Long Hold) - Quick Magicka Potion
+- B + Dpad Left - Hotkey 5
+- B + Dpad Down - Hotkey 6
+- B + Dpad Right - Hotkey 7
+- B + Dpad Up - Hotkey 8
+- X - Sheath/Unsheath
 - A - Activate
-- B - Hold to Sprint
+- B - Hold to Sprint, Cancel, and Hotkey Modifier
 - Y - Jump
-- Left Stick Click - Ready/Sheath
+- Left Stick Click - Sneak
 - Right Stick Click - Lock On
 - Right Stick Click (Hold for 0.25 seconds and then release) - Change POV
 - Select (left side) - Wait 
 - Start (right side) - System Menu
-- B + Y - Tween Menu
-- B + Dpad Up - Favorites Menu
-- B + Left Stick Click - Sneak
+- B + Select - Tween Menu
+- B + Left Stick Click - Favorites Menu
 
 LB Modifier Keybinds - This button must be held down for the following keybinds to work
 - LB + RB - Shout/Power
-- LB + Dpad Left - Group 1
-- LB + Dpad Down - Group 2
-- LB + Dpad Right - Group 3
-- LB + Dpad Up - Group 4
+- LB + Dpad Left - Favorites Group 1
+- LB + Dpad Down - Favorites Group 2
+- LB + Dpad Right - Favorites Group 3
+- LB + Dpad Up - Favorites Group 4
 - LB + X - Dodge Left
 - LB + A - Dodge Backwards
 - LB + B - Dodge Right
 - LB + Y - Dodge Forward
 - LB + Left Stick Click - Open Console
 - LB + Select (left side) - Immersive HUD Toggle 
-- LB + Start - Forceful Tongue Skill Menu (Shout Mod)
-- LB + Start (Long Hold) - Shoulder Cam Switch
+- LB + Start - Shoulder Cam Switch
 
 RB Modifier Keybinds - This button must be held down for the following keybinds to work
-- RB + Right Trigger - Standing Power Attack
-- RB + Dpad Left - Group 5
-- RB + Dpad Down - Group 6
-- RB + Dpad Right - Group 7
-- RB + Dpad Up - Group 8
-- RB + X - Left Power Attack
-- RB + A - Backwards Power Attack
-- RB + B - Right Power Attack
-- RB + Y - Forward Power Attack
+- RB + Dpad Left - Favorites Group 5
+- RB + Dpad Down - Favorites Group 6
+- RB + Dpad Right - Favorites Group 7
+- RB + Dpad Up - Favorites Group 8
 - RB + Select - Quick Load
 - RB + Start - Quick Save
 - RB + Left Stick Click - Lichdom Mode Change
+- RB + X - Create Item
+- RB + A - Instincts
+- RB + B - Harvest Wood
+- RB + Y - Build Campfire
 
-Campfire Actions (Hold Select Button) - You must hold the Select Button for the following keybinds to work
-- Select + X - Create Item
-- Select + A - Instincts
-- Select + B - Harvest Wood
-- Select + Y - Build Campfire
 
 ## MCM & Control Settings
 
 You're nearly there! Now we can go in-game and do the final steps.
 
-NOTE: Like was mentioned in the beginning of the readme, you need to follow this guide AFTER you've already done the initial Aldrnari MCM setup. It does not matter if you do these while still above Helgen or if you've already started your character - Just ensure it is AFTER you've done the main guide's MCM setup first.
-
 ### Vanilla Control Changes and Import
 
-The first step here is to go into the Aldrnari install folder and then go into the "Stock Game" folder. If you see a Custom_Controlmap.txt, delete it. Then go into your actual Skyrim Install's Data folder and delete any Custom_controlmap.txt if you see one. You shouldn't have one, but check just in case.
+The first step here is to go into the Tinvaak 2 install folder and then go into the "Game Root" folder. If you see a Custom_Controlmap.txt, delete it. Then go into your actual Skyrim Install's Data folder and delete any Custom_controlmap.txt if you see one. You shouldn't have one, but check just in case.
 
 Now, we have a controlmap.txt within a mod that needs to be loaded by Skyrim. For us to ensure that happens, open up MO2 and ensure that the mod "Gamepad Specific - Modified controlmap.txt" is enabled (Click the box to it's left). It should be under the "Generated Files" heading and down at the bottom of the mods within that heading. 
 
@@ -256,22 +242,12 @@ It is imperative that you map all keys exactly as they are in this guide! The co
 #### Engarde
 - KeyButton
   - Modifier - (Use your controller for this button) Set it to R1/RB. It will say LB is what mapped but worry not, this is intended.
-  - Power Attack Key - ]
   - Defensive Action Key - \
-
-#### Forceful Tongue
-  - Dragonborn Skill Menu Hotkey - ;
 
 #### Immersive Hud
   - Activation
     - Compass Activation
       - iHUD Hotkey - X
-
-#### Optimal Potion Hotkey (USE YOUR CONTROLLER FOR THIS SPECIFIC MCM)
-  - Hotkeys
-    - Health Potion Hotkey - (Use your controller for this button) Square on the PS4/5 controller or X on the Xbox Controller.
-    - Magicka Potion Hotkey - . (That is this key (>) for those unsure)
-    - I did not add in the stamina potion hotkey because I never use it and there is limited real-estate to work with as it is... If you want it you'll have to add it in yourself with everything that would entail.
 
 #### SkyUI
   - Controls
@@ -297,14 +273,9 @@ It is imperative that you map all keys exactly as they are in this guide! The co
       - Enable "Toggle Target Lock with Toggle POV Button" 
       - I also personally go into the Target Lock Widget and make the lock on UI a simple dot and scale it down. That is, of course, up to you.
 
-#### ENB Specific Keybinds OR Quick Save and Quick Load
+#### Quick Save and Quick Load
   
   - Your default control scheme is set for a quick save on R1/RB + Start and a quick load on R1/RB + Select
-  - If you opt for ENB shortcuts because you're a screen archer INSTEAD of quick save and quick load functionality, you need to open your ENB (most likely the END key) and on the left side near the top you should see an "INPUT" heading. Open that selection and make sure you set the Screenshot key to the "INSERT" button and the lens toggle effect key to the "DELETE" key. Now you need to go into the Steam Controller Configuration tool and change the bindings under R1/RB Hotkeys on the select button from F9 to INSERT and start button from F5 to DELETE.
- 
-### Remaining Free Keybinds
-
-There are still quite a few keys on your keyboard left for possible hotkey use. You have the entire numbers line (not the numpad, most of those are being used) as well as the following keys: O, U, Y, and L. That should be more than enough. Unfortunately, if you want to use any hotkeys beyond what I've built into the configurations, you'll have to add them in yourself. Support for this endeavor will not be provided. Fortunately, it isn't very hard to figure out with a little time and effort.
 
 ## Final Tips & Troubleshooting
 
@@ -312,13 +283,13 @@ While this setup has worked well in my testing, there are a few quirks that can 
 
 #### Dodging Quirks
 
-If you never use lock on from True Directional Movement, you will never be able to use the directional dodging feature. When you press any of the dodge directions, you will simply dodge/slide/roll in the direction you are moving. This can be useful if you switch back and forth between locking on and not locking on. It is not a bug though, so don't ask in support as if it is. Also, I have found it unreliable to roll dodge by mashing the dodge key as you would in keyboard and mouse mode. As such, I do not rely on it. Feel free to explore it's usage more though. Perhaps you will have a different experience than me. 
+If you never use lock on from True Directional Movement, you will never be able to use the directional dodging feature. When you press any of the dodge directions, you will simply dodge/slide/roll in the direction you are moving. This can be useful if you switch back and forth between locking on and not locking on. It is not a bug though, so don't ask in support as if it is.
 
 #### SkyUI Favorites & Groups
 
-If you're like me, you've never used the hotkeys provided by SkyUI. Well, if you want to really have fun, you need to change that up. I learned about them for the first time myself while I built these configurations. I have found them to be an amazing replacement for the somewhat script heavy Serio's Hotkeys that I use to use in every list. If you are unsure how the groups work, watch this [SkyUI Favorites & Groups Tutorial](https://youtu.be/FSrwmH4_dJM). Now that you understand how they work, you can fully utilize the 8 groups you have available from these configurations. You never have to pause during combat again, it really is amazing. 
+If you're like me, you've never used the hotkeys provided by SkyUI. Well, if you want to really have fun, you need to change that up. I learned about them for the first time myself while I built these configurations. I have found them to be an amazing replacement for the somewhat script heavy Serio's Hotkeys that I use in every list. If you are unsure how the groups work, watch this [SkyUI Favorites & Groups Tutorial](https://youtu.be/FSrwmH4_dJM). Now that you understand how they work, you can fully utilize the 8 groups you have available from these configurations. You never have to pause during combat again, it really is amazing. 
 
-Here are some tips I have for utilizing those groups on your 8 directional pad hotkeys. I tend to keep a theme on specific directional pad buttons. For example, the down directional pad button is easy to get to when you're in combat, so I tend to map healing spells there on the first layer (thats group 2 while just holding L1/LB) and then I use the second layer as buffs which is group 6 (while holding L1/LB + R1/RB). Then I keep offensive magic on the two left directional pad hotkeys I have and utility spells for the up directional pad hotkeys. That leaves me with two slots on my right directional pad keys for two different groups of whatever I want (perhaps swords, bows etc...). Additionally, you have two quick access hotkeys when not holding down ANY modifiers (as in, just playing normally) - the left direction key and right direction key. I use these for two quick access shouts or powers so I can... well, switch between them quickly. You have to map them in your favorites menu though. All you have to do is press either left or right on the item/spell/power/shout you want mapped and it'll map to that button. 
+Here are some tips I have for utilizing those groups on your 8 directional pad hotkeys. I tend to keep a theme on specific directional pad buttons. For example, the down directional pad button is easy to get to when you're in combat, so I tend to map healing spells there on the first layer (thats group 2 while holding L1/LB) and then I use the second layer as buffs which is group 6 (while holding R1/RB). Then I keep offensive magic on the two left directional pad hotkeys I have and utility spells for the up directional pad hotkeys. That leaves me with two slots on my right directional pad keys for two different groups of whatever I want (perhaps swords, bows etc...).
 
 If you take the time to understand how these systems and features work, you will reap the benefit when you actually get around to playing the game.
 
