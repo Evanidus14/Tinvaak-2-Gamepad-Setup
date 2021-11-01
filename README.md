@@ -5,21 +5,21 @@
 
 ## Foreword
 
-Setting up Aldrnari with a gamepad can be a daunting task with all of it's extra features and possible keybinds. In addition to that, the main combat mod, Engarde, works in such a way that dodges and power attacks won't respond to your analog stick movements - effectively locking you out of most of your defensive and offensive options right from the start. There are some workarounds such as mapping your controller to keyboard keys for movement, but this is less than ideal and a pain to set up. Hopefully, with the help of this guide, you won't have to worry about *that*, anymore.
+Setting up Tinvaak 2 with a gamepad can be a daunting task with all of it's extra features and possible keybinds. In addition to that, the main combat mod, Engarde, works in such a way that dodges and power attacks won't respond to your analog stick movements - effectively locking you out of most of your defensive and offensive options right from the start. There are some workarounds such as mapping your controller to keyboard keys for movement, but this is less than ideal as it intereferes with movement and camera control, not to mention it's also a pain to set up. Hopefully, with the help of this guide, you won't have to worry about *that*, anymore.
 
-If you follow the instructions within this guide, you'll be able to play Aldrnari utilizing all of what it's systems have to offer, comfortably, with your gamepad while still enjoying all of what a controller brings to the table. Finally, you won't have to download any crazy software or tinker around with configurations - all of that has already been done for you and will be linked for easy access further into the guide.
+If you follow the instructions within this guide, you'll be able to play Tinvaak 2 utilizing all of what it's systems have to offer, comfortably, with your gamepad while still enjoying all of what a controller brings to the table. Finally, you won't have to download any crazy software or tinker around with configurations - all of that has already been done for you and will be linked for easy access further into the guide!
 
-... You *will* have to spend time and read this guide in its entirety though, otherwise you will be lost when trying to use your controller in game. You will also be told to RTFM if you ask any questions about controller support in the Aldrnari support channel that are answered within this guide. This guide has been prepared to help YOU help yourself. If you can't be bothered to read, well, no one else will be bothered to help. 
+... You *will* have to spend time and read this guide in its entirety though, otherwise you will be lost when trying to use your controller in game. Please read the full guide before asking for support. This guide has been prepared to help YOU help yourself. With that being said, if you believe you've followed the guide to the letter and are still having issues, let someone of the team know in the support channel on the Wabbajack discord or in Tinvaak 2 Bugs & Questions channel on Althro's discord and we will be happy to assist you.
 
 ## First Steps & Setup
 
 ### Important Considerations
 
-Make sure you follow this guide AFTER you finish the install guide and MCM settings in the main readme. If you do not, you will most likely run into keybinding issues as anything you set up in this guide could or will be overwritten by the main MCM keybindings or settings.
+The best time to follow this guide is after you've followed the main readme for the install of Tinvaak 2. You can follow this guide while making your character in game or after you've already made your character - either option will work just fine.
 
 ### Connecting Your Controller To Steam
 
-This step can be somewhat difficult depending on your hardware and PC setup. Before we move on, Steam needs to be recognizing your controller (THAT MEANS THE CONTROLLER NEEDS TO BE ON) for you to be able to apply the Aldrnari configurations. If you are having difficulty, make sure you go into Steam's settings, then controller settings, and then click on "GENERAL CONTROLLER SETTINGS" to ensure you have the right support boxes checked for the controller you're using. 
+This step can be somewhat difficult depending on your hardware and PC setup. Before we move on, Steam needs to be recognizing your controller (THAT MEANS THE CONTROLLER NEEDS TO BE ON) for you to be able to apply the Tinvaak 2 configurations. If you are having difficulty, make sure you go into Steam's settings, then controller settings, and then click on "GENERAL CONTROLLER SETTINGS" to ensure you have the right support boxes checked for the controller you're using. 
 
 So, that will look like this...
 ![image](https://user-images.githubusercontent.com/89932487/133790433-f562b809-d170-487c-aa3a-2763e6bc7d79.png)
