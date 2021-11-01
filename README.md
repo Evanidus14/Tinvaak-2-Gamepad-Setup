@@ -1,6 +1,6 @@
 # Tinvaak 2 Gamepad Setup & Guide
 
-![Logo]!(https://user-images.githubusercontent.com/89932487/139698859-f32a30bb-0c34-41d3-ba30-9ea768d9af01.png)
+![Logo](https://user-images.githubusercontent.com/89932487/139698859-f32a30bb-0c34-41d3-ba30-9ea768d9af01.png)
 
 
 ## Foreword
