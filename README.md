@@ -88,7 +88,7 @@ This section will list out the keybinding setup for both controller configuratio
 
 I highly suggest you take a look at the configurations and familiarize yourself with the buttons. All have been labeled so you can easily see what button does what. They will also be listed for a comprehensive view of every keybind, but they will make more sense if you visualize them in the configuration. Make sure to switch between all three layers (Default, L1 Hotkeys and R1 Hotkeys). Keep in mind that while holding L1 or R1, any buttons that do not have a mapping listed here will perform the mapping from the default "layer" of the configuration.
 
-![image](https://user-images.githubusercontent.com/89932487/133794142-8eb67c39-2dc2-4a31-9228-faeb6f06555f.png)
+![image](https://user-images.githubusercontent.com/89932487/139701647-784c6b6d-62f8-428e-885d-48621bcb802f.png)
 
 Default Keybinds (No Modifiers)                            
 - L1 - Modifier Button & Left Shift 
@@ -154,7 +154,7 @@ Campfire Actions (Hold Left Side Pad Button) - You must hold the Left Side Pad (
 
 I highly suggest you take a look at the configurations and familiarize yourself with the buttons. All have been labeled so you can easily see what button does what. They will also be listed for a comprehensive view of every keybind, but they will make more sense if you visualize them in the configuration. Make sure to switch between all three layers (Default, LB Hotkeys and RB Hotkeys). Keep in mind that while holding LB or RB, any buttons that do not have a mapping listed here will perform the mapping from the default "layer" of the configuration.
 
-![image](https://user-images.githubusercontent.com/89932487/133794350-b206104c-76f7-443f-933b-8031bc13c566.png)
+![image](https://user-images.githubusercontent.com/89932487/139708703-65997a20-a0f1-4206-ab2b-8ebd1bc35657.png)
 
 Default Keybinds (No Modifiers)                            
 - LB - Modifier Button
