@@ -69,6 +69,9 @@ Holding L1/LB will bring up your directional dodges from engarde and your first 
 #### Remaining SkyUI Groups
 Holding R1/RB will bring up your last set of 4 groups from SKYUI. The groups are located on the directional buttons like before (left, right, down, and up). There is a slight difference between the controller archetypes here in that the Xbox controllers also have campfire functionality mapped to the face buttons while holding RB whereas the PS4/PS5 controllers have that same campfire functionality while holding the left side of the trackpad. If that confuses you, worry not! The controls are laid out in depth further into the guide.
 
+#### Vanilla Hotkey Functionality
+You have access to the 8 vanilla hotkeys with this setup. To map certain items/spells to each hotkey, simply press one of your keyboard keys (1-8) while highlighting the item/spell in question while in the favorites menu in order to map it to that specific hotkey. To actually USE that hotkey in game, simply press the directional button or directional button combination that corresponds with the hotkey you want to use. They are as follows: Left (1), Down (2), Right (3), Up (4), Hold Circle + Left (5), Hold Circle + Down (6), Hold Circle + Right (7), Hold Circle + Up (8). These controls will also be laid out plainly further into the guide. They are only listed here so you know they are available to use. 
+
 #### Gameplay & Controller Configuration Tutorial/Demo
 
 I've created a video that may make it easier for you to understand how the controls work as you'll be able to see them in action. It is HIGHLY SUGGESTED you sit through the entire video to properly understand this control scheme. I know it's long, but it will help. Also, I added on a little clip at the end explaining an important feature for Spellswords that I forgot to add in, so be sure to watch that bit too (This video will be updated, for now consider it a work-in-progress).
@@ -91,7 +94,7 @@ I highly suggest you take a look at the configurations and familiarize yourself 
 ![image](https://user-images.githubusercontent.com/89932487/139701647-784c6b6d-62f8-428e-885d-48621bcb802f.png)
 
 Default Keybinds (No Modifiers)                            
-- L1 - Modifier Button & Left Shift 
+- L1 - Modifier Button 
 - L2 - Left Hand
 - R1 - Modifier Button & Engarde Modifier (This is the key you have to hold to use a spell in the left hand while wielding a weapon in the right!)
 - R2 - Right Hand
@@ -99,20 +102,23 @@ Default Keybinds (No Modifiers)
 - Dpad Down - Hotkey 2
 - Dpad Right - Hotkey 3
 - Dpad Up - Hotkey 4
-- Square - Quick Heal
-- Square (Long Hold) - Quick Magicka Potion
+- Circle + Left - Hotkey 5
+- Circle + Down - Hotkey 6
+- Circle + Right - Hotkey 7
+- Circle + Up - Hotkey 8
+- Square - Sheath/Unsheath
 - Cross - Activate
-- Circle - Hold to Sprint
+- Circle - Hold to Sprint, cancel, and 
 - Triangle - Jump
-- Left Stick Click - Ready/Sheath
+- Left Stick Click - Sneak
 - Right Stick Click - Lock On
 - Right Stick Click (Hold for 0.25 seconds and then release) - Change POV
 - Share (left side) - Wait 
 - Start (right side) - System Menu
 - Left Pad Click - Menu Sort Left
 - Right Pad Click - Menu Sort Right
-- Circle + Triangle - Tween Menu
-- Circle + Dpad Up - Favorites Menu
+- Circle + Share - Tween Menu
+- Circle + Left Stick Click - Favorites Menu
 - Circle + Left Stick Click - Sneak
 
 L1 Modifier Keybinds - This button must be held down for the following keybinds to work
