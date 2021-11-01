@@ -7,9 +7,9 @@
 
 Setting up Tinvaak 2 with a gamepad can be a daunting task with all of it's extra features and possible keybinds. In addition to that, the main combat mod, Engarde, works in such a way that dodges and power attacks won't respond to your analog stick movements - effectively locking you out of most of your defensive and offensive options right from the start. There are some workarounds such as mapping your controller to keyboard keys for movement, but this is less than ideal as it intereferes with movement and camera control, not to mention it's also a pain to set up. Hopefully, with the help of this guide, you won't have to worry about *that*, anymore.
 
-If you follow the instructions within this guide, you'll be able to play Tinvaak 2 utilizing all of what it's systems have to offer, comfortably, with your gamepad while still enjoying all of what a controller brings to the table. Finally, you won't have to download any crazy software or tinker around with configurations - all of that has already been done for you and will be linked for easy access further into the guide!
+If you follow the instructions within this guide, you'll be able to play Tinvaak 2 utilizing all of what it's systems have to offer, comfortably, with your gamepad while still enjoying all of what a controller brings to the table. Finally, you won't have to download any crazy software or tinker around with configurations - All we need is a Steam configuration and a custom_controlmap.txt which has already been done for you and will be linked for easy access further into the guide!
 
-... You *will* have to spend time and read this guide in its entirety though, otherwise you will be lost when trying to use your controller in game. Please read the full guide before asking for support. This guide has been prepared to help YOU help yourself. With that being said, if you believe you've followed the guide to the letter and are still having issues, let someone of the team know in the support channel on the Wabbajack discord or in Tinvaak 2 Bugs & Questions channel on Althro's discord and we will be happy to assist you.
+... You *will* have to spend time and read this guide in its entirety though, otherwise you will be lost when trying to use your controller in game. Please read the full guide before asking for support. This guide has been prepared to help YOU help yourself. With that being said, if you believe you've followed the guide to the letter and are still having issues, let someone on the team know in the support channel on the Wabbajack discord or in the Tinvaak 2 Bugs & Questions channel on Althro's discord and we will be happy to assist you.
 
 ## First Steps & Setup
 
@@ -28,17 +28,17 @@ So, that will look like this...
 ![image](https://user-images.githubusercontent.com/89932487/133791623-28808010-9c55-426f-a998-a1d7f30edbb0.png)
 
 
-Steam's controller support is very broad, so just about any controller will work. This guide, however, will be focusing on the PS4 controller and the Xbox controller, as those are the most widely known and used. If you still can't get your controller connected, you'll have to google solutions as the potential source of the problem could be a great many things and support/troubleshooting for it goes beyond the scope of this guide. Take solace in the fact that someone out there has most likely experienced your issue and has a solution for you, you just have to find it (yourself).
+Steam's controller support is very broad, so just about any controller will work. This guide, however, will be focusing on the PS4/PS5 controller and the Xbox family of controllers as those are the most widely known and used. If you still can't get your controller connected, you'll have to google solutions as the potential source of the problem could be a great many things and support/troubleshooting for it goes beyond the scope of this guide. Take solace in the fact that someone out there has most likely experienced your issue and has a solution for you, you just have to find it (yourself).
 
 ### Importing The Steam Controller Configurations
 
 As was stated earlier, you don't need to mess around with any custom controls, software, or configurations yourself, that has ALL been done for you. This step is simply applying the configuration that has already been made to your specific controller. The configurations were made on a PS5 controller and an Xbox Elite controller, but they will still work with earlier generation models. That is to say, the PS5 controller configuration works with a PS4 controller and the Xbox Elite configuration works with any Xbox controller. If you're using some sort of wonky 3rd party controller, it *should* work with the Xbox configuration. So, depending on which controller you're using, Steam may give you a warning telling you the configuration you are trying to apply was made for a different controller, simply hit the "OK" option and the controls will map appropriately - SO LONG AS YOU APPLIED THE MATCHING CONFIGURATION THAT WAS JUST MENTIONED. 
 
-Simply copy and paste the appropriate controller configuration from below into your browser and it will attempt to open Steam. Allow it to do so and then accept the configuration as was just mentioned.
+Simply copy and paste the appropriate controller configuration from below into your browser and it will attempt to open Steam. Allow it to do so and then accept the configuration as was just mentioned. (Google and Firefox seem to be the best browsers for this step)
 
 The Steam controller configurations are here: 
-  - [PS4/5 controller] (steam://controllerconfig/489830/2607356424)
-  ![image](https://user-images.githubusercontent.com/89932487/134069334-d6e0d095-663c-40ae-973e-afca24ec26d7.png)
+  - [PS4/5 controller] (steam://controllerconfig/489830/2643232367)
+  ![image]![image](https://user-images.githubusercontent.com/89932487/139701647-784c6b6d-62f8-428e-885d-48621bcb802f.png)
 
   - [Xbox and all 3rd party controllers] (steam://controllerconfig/489830/2607358221)
   ![image](https://user-images.githubusercontent.com/89932487/134069164-50ed52f1-dca5-4fa2-885a-515ef51f2a73.png)
