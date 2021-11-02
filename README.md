@@ -207,6 +207,7 @@ RB Modifier Keybinds - This button must be held down for the following keybinds 
 
 You're nearly there! We just have a few steps left. First we need to add one line into our Skyrim.ini file in order for our power attacks to function as normal. If you aren't sure where the Skyrim.ini is or which one you need to modify, the easiest way to get to the one we need is through MO2. At the top-middle of MO2's UI you should see several icons. Click on the Folder shaped icon to bring up several options - we want the third option "Open INIs Folder." This will open up the folder containing all the INI files for the specific profile you're using in MO2. Find the Skyrim.ini and open it. Now find the "Controls" section and add this line below the other settings:
 - fInitialPowerAttackDelay=0.15
+
 If you miss this step, you won't be able to use your power attacks correctly! 
 
 ### Vanilla Control Changes and Import
