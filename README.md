@@ -219,9 +219,13 @@ If you can't find it, in the lower right corner of the main mod pane, you should
 
 Finally, when you are in game and AFTER you have setup all the MCMs from the main guide, open the system menu and go into controls. Hit the button that resets the controls to default. This will ensure that our modified controls are loaded. 
 
-### MCM Settings
+### MCM Settings & Skyrim.ini Addition
 
-It is imperative that you map all keys exactly as they are in this guide! The configurations were built around these specific keybinds, so if you change any of them, you'll have to change the Steam Controller Configurations and custom control map as well. 
+It is imperative that you map all keys exactly as they are in this guide! The configurations were built around these specific keybinds, so if you change any of them, you'll have to change the Steam Controller Configurations and custom control map as well.
+
+If you aren't sure where the Skyrim.ini is or which one you need to modify, the easiest way to get to the one we need is through MO2. At the top-middle of MO2's UI you should see several icons. Click on the Folder shaped icon to bring up several options - we want the third option "Open INIs Folder." This will open up the folder containing all the INI files for the specific profile you're using in MO2. Find the Skyrim.ini and open it. Now find the "Controls" section and add this line below the other settings:
+- fInitialPowerAttackDelay=0.15
+If you miss this step, you won't be able to use your power attacks correctly. 
 
 #### Campfire
 - Gameplay
