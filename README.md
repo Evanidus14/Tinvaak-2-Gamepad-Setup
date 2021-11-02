@@ -240,7 +240,7 @@ It is imperative that you map all keys exactly as they are in this guide! The co
 #### Engarde
 - KeyButton
   - Modifier - (Use your controller for this button) Set it to R1/RB. It will say LB is what mapped but worry not, this is intended.
-  - Defensive Action Key - \
+  - Defensive Action Key - \  (If you're having trouble finding this character, it is on the # key if using a German keyboard!)
 
 #### Immersive Hud
   - Activation
