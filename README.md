@@ -220,7 +220,7 @@ Now, we have a controlmap.txt within a mod that needs to be loaded by Skyrim. Fo
 
 If you can't find it, in the lower right corner of the main mod pane, you should see a search box. Type in the name of the mod in this searchbox and it should narrow it down for you.
 
-Finally, when you are in game and AFTER you have setup all the MCMs from the main guide, open the system menu and go into controls. Hit the button that resets the controls to default. This will ensure that our modified controls are loaded. 
+Finally, when you are in game and AFTER you have setup all the MCMs from the main guide, open the system menu and go into controls. Hit the button that resets the controls to default then exit the menu. This will ensure that our modified controls are loaded. 
 
 ### MCM Settings
 
